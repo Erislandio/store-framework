@@ -11,7 +11,7 @@
 .infoCardContainer {
   max-width: 1260px;
   margin: 0;
-  padding: 0;
+  padding: 0; 
 }
 
 .infoCardHeadline {
